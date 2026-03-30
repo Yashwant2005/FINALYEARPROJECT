@@ -2,3 +2,6 @@ streamlit
 pillow
 requests
 google-generativeai
+tensorflow
+numpy
+python-dotenv
