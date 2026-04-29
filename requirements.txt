@@ -3,3 +3,4 @@ pillow
 requests
 google-genai
 python-dotenv
+python-docx
